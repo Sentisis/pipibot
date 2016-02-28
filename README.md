@@ -1,6 +1,8 @@
 # Pipibot
 _A Slack bot that works with Arduino to tell you if the bathroom is free_
 
+_NOTE: This is a work in progress and should be used with the coming guide of the Arduino device_
+
 Pipibot is a tool for big offices to save time by avoiding long trips to realize that the bathroom wasn't available. It uses an Arduino device with a photoresistor and a Wi-Fi module. The device saves the status of the bathroom so the Slack bot can check it when the user sends the request.
 
 ## Getting Started
