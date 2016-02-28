@@ -10,7 +10,7 @@ Pipibot is a tool for big offices to save time by avoiding long trips to realize
 npm install
 ```
 
-2) [Setup](https://my.slack.com/services/new/bot) the bot integration in your Slack channel. You will need the Token.
+2) [Set up](https://my.slack.com/services/new/bot) the bot integration in your Slack channel. You will need the Token.
 
 3) Run pipibot, using the token you just copied:
 
