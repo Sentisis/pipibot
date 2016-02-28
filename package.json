@@ -1,0 +1,26 @@
+{
+  "name": "pipibot",
+  "version": "0.0.1",
+  "description": "A Slack bot that works with Arduino to tell you if the bathroom is free",
+  "main": "bot.js",
+  "dependencies": {
+    "botkit": "0.0.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sentisis/pipibot.git"
+  },
+  "keywords": [
+    "bot",
+    "slack",
+    "arduino",
+    "bathroom"
+  ],
+  "author": "Séntisis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sentisis/pipibot/issues"
+  },
+  "homepage": "https://github.com/Sentisis/pipibot#readme"
+}
